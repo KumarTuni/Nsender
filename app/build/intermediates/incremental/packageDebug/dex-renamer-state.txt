@@ -1,0 +1,7 @@
+#Fri Oct 07 17:59:03 SGT 2016
+base.0=C\:\\Users\\Rohin\\Downloads\\Nsender\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d970dcba9c4ed5285861838a0f42b1edb15a253a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Rohin\\Downloads\\Nsender\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3315dbd9c4097cf3dfe7af8347c64c32543ff483\\classes.dex
+base.1=C\:\\Users\\Rohin\\Downloads\\Nsender\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3315dbd9c4097cf3dfe7af8347c64c32543ff483
+file.0=C\:\\Users\\Rohin\\Downloads\\Nsender\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d970dcba9c4ed5285861838a0f42b1edb15a253a\\classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Rohin\\Downloads\\Nsender\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pdf.png",
+        "source": "C:\\Users\\Rohin\\Downloads\\Nsender\\app\\src\\main\\res\\drawable\\pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\Rohin\\Downloads\\Nsender\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\file.png",
+        "source": "C:\\Users\\Rohin\\Downloads\\Nsender\\app\\src\\main\\res\\drawable\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\Rohin\\Downloads\\Nsender\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\folder.png",
+        "source": "C:\\Users\\Rohin\\Downloads\\Nsender\\app\\src\\main\\res\\drawable\\folder.png"
+    }
+]
